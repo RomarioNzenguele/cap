@@ -42,6 +42,10 @@
 ### Problema:
 "Como a Tendência Histórico-Cultural pode contribuir para uma educação mais significativa e transformadora, considerando seus princípios de desenvolvimento social e mediação da aprendizagem?"
 
+### Objetivos: 
+- **Objectivo Instrutivo:** Analisar as tendências histórico cultural e suas contribuições para o Processo Docente Educativo.
+- **Objectivo Educativo:** Sentir que conhecer as principais características da tendência Histórico Cultural, faz-nos melhores docentes, mais qualificados para enfrentar os desafios do Processo Docente Educativo.
+
 <!--
 ### Objetivos:
 
