@@ -1,4 +1,4 @@
-# cap - Mandume
+# CAP - Mandume
 
 **Contexto Histórico e Conteúdo da Tendência Histórico-Cultural**
 
