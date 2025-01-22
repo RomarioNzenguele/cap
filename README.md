@@ -38,10 +38,11 @@
 
 <hr>
 
-<!--
+
 ### Problema:
 "Como a Tendência Histórico-Cultural pode contribuir para uma educação mais significativa e transformadora, considerando seus princípios de desenvolvimento social e mediação da aprendizagem?"
 
+<!--
 ### Objetivos:
 
 #### Objetivo Geral:
