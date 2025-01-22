@@ -35,3 +35,23 @@
     *   Comparação com a Tendência Tradicional.
 5.  **Conclusões**.
 6.  **Apresentação em PowerPoint**.
+
+<hr>
+
+<!--
+### Problema:
+"Como a Tendência Histórico-Cultural pode contribuir para uma educação mais significativa e transformadora, considerando seus princípios de desenvolvimento social e mediação da aprendizagem?"
+
+### Objetivos:
+
+#### Objetivo Geral:
+- Analisar e compreender os fundamentos da Tendência Histórico-Cultural e suas contribuições para o processo educativo contemporâneo.
+
+##### Objetivos Específicos:
+- Investigar o contexto histórico e social que deu origem à Tendência Histórico-Cultural
+- Identificar e analisar os principais conceitos e pressupostos teóricos desenvolvidos por Vygotsky e seus colaboradores
+- Comparar os princípios da Tendência Histórico-Cultural com a abordagem tradicional de ensino, evidenciando suas principais diferenças e contribuições
+- Examinar as implicações práticas desta tendência para o processo de ensino-aprendizagem em contextos educacionais atuais
+
+-->
+
